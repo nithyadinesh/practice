@@ -1,4 +1,4 @@
-package com.learning.samples;
+package com.learning.assignments;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class MFA {
-	private static final String DIRECTORY_PATH = "C:\\Users\\dinesh.ilangovan\\OneDrive - Tavant Technologies\\Desktop\\jlearn\\";
+	private static final String DIRECTORY_PATH = "D:\\jlearn\\";
 	private static final int MINIMUM_NO_OF_TOKENS = 3;
 
 	public static void main(String[] args) {
